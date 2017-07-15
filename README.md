@@ -1,5 +1,7 @@
 # Rails starter kit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GeeklyClub/RailsStarterKit.svg)](https://greenkeeper.io/)
+
 ## How to use it
 
 ```
